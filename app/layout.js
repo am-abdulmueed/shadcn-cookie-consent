@@ -14,7 +14,7 @@ export const metadata = {
   title: "Shadcn Cookie Consent",
   description: "Beautifully designed, customizable cookie consent for web built on top of shadcn/ui and TailwindCSS!",
   keywords: "shadcn, cookie consent, nextjs, tailwind, ui, components",
-  author: "r2hu1",
+  author: "am-abdulmueed",
   robots: "index, follow",
   icons: ["/logo.png"]
 };
